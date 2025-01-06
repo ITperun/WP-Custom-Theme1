@@ -1,0 +1,12 @@
+/*
+Theme Name: Custom
+Author: Kumihorane
+Author URI: https://wordpress.org/
+Description: Theme
+Requires PHP: 8.0
+Version: 1.0
+*/
+
+body {
+  background: #21759b;
+  }
